@@ -1,0 +1,4 @@
+/server/.env
+/server/node_modules
+/server/yarn.lock
+/client/node_modules
